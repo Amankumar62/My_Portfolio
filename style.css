@@ -13,6 +13,10 @@ body {
 hr{
     margin:2rem 0rem;
 }
+/* spaces */
+.margin-md{
+    padding: 2rem 0;
+}
 
 /* container */
 .container {
@@ -76,11 +80,11 @@ list-style: none;
 /* Header */
 .hero{
     padding: 2rem;
-
+    padding-top: 5rem;
 }
 
 .hero .hero-img {
-   max-width: 550px;
+   max-width: 50rem;
   display: block;
   margin: auto;
 }
