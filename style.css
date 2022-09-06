@@ -88,7 +88,7 @@ list-style: none;
 }
 
 .hero .hero-img {
-   max-width: 50rem;
+   max-width: 25rem;
   display: block;
   margin: auto;
 }
@@ -120,6 +120,7 @@ list-style: none;
 /* footer */
 
 .footer{
+    margin-top: 5rem;
 background-color: var(--primary-color);
 padding:2rem 1rem;
 text-align: center;
